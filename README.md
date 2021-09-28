@@ -13,5 +13,6 @@
 <img align="left" alt="HTML5" width="50px" src="images/html_logo.png" />
 <img align="left" alt="CSS3" width="56px" src="images/css_logo.png" />
 <img align="left" alt="JavaScript" width="45px" src="images/js_logo.png" />
+<img align="left" alt="Java" width="60px" src="images/java_logo.png" />
 <img align="left" alt="Visual Studio" width="66px" src="images/vs_logo.png" />
 <img align="left" alt="GitHub" width="46px" src="images/github_logo.png" />
