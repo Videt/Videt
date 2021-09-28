@@ -4,7 +4,7 @@
 
 - 📚 I’m currently studying at Centennial College
 - 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2022 Goals: finish college, become more proficient in Unity and web developmen, learn React and other great technologies, meet more great people and find my dream job!
+- 🥅 2022 Goals: finish college, become more proficient in Unity and web development, learn React and other great technologies, meet new people and find my dream job!
 
 ### Languages and Tools:
 
