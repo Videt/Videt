@@ -1,5 +1,5 @@
 ### Hey, I'm Egor 👋
-I'm a Software Engineering student, who enjoys coding! Currently, I learn **React**, work on my web developement skills and do some game development on my spare time!
+I'm a Full Stack Web Developer (MERN, ASP.NET), and I'm currently open to job opportunities! Contact me using the links below
 
 ### Get In Touch
 <a href="mailto:egorshev3105@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
